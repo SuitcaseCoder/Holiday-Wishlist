@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Holiday-Wishlist/static/css/main.ef6797ea.chunk.css",
+    "main.js": "/Holiday-Wishlist/static/js/main.79856bcb.chunk.js",
+    "main.js.map": "/Holiday-Wishlist/static/js/main.79856bcb.chunk.js.map",
+    "runtime-main.js": "/Holiday-Wishlist/static/js/runtime-main.34de96ac.js",
+    "runtime-main.js.map": "/Holiday-Wishlist/static/js/runtime-main.34de96ac.js.map",
+    "static/js/2.e078fd31.chunk.js": "/Holiday-Wishlist/static/js/2.e078fd31.chunk.js",
+    "static/js/2.e078fd31.chunk.js.map": "/Holiday-Wishlist/static/js/2.e078fd31.chunk.js.map",
+    "static/js/3.78fdff6f.chunk.js": "/Holiday-Wishlist/static/js/3.78fdff6f.chunk.js",
+    "static/js/3.78fdff6f.chunk.js.map": "/Holiday-Wishlist/static/js/3.78fdff6f.chunk.js.map",
+    "index.html": "/Holiday-Wishlist/index.html",
+    "static/css/main.ef6797ea.chunk.css.map": "/Holiday-Wishlist/static/css/main.ef6797ea.chunk.css.map",
+    "static/js/2.e078fd31.chunk.js.LICENSE.txt": "/Holiday-Wishlist/static/js/2.e078fd31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34de96ac.js",
+    "static/js/2.e078fd31.chunk.js",
+    "static/css/main.ef6797ea.chunk.css",
+    "static/js/main.79856bcb.chunk.js"
+  ]
+}
