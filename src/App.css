@@ -70,7 +70,25 @@ button{
   padding: 25px 0;
 }
 
+#bottom-link{
+  color: #F5F5F5;
+  font-size: 18px;
+  padding-top: 1.5em;
+  padding-bottom: 20px;
+  margin: 0 auto;
+}
 
+#bottom-link a {
+  color: #44C662;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 18px;
+  text-stroke: 2px black;
+}
+
+#bottom-link a:hover{
+  color: #44C662;
+}
 
 
 

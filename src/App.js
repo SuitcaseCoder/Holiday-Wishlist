@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Heading />
       <Home />
+      <div id="bottom-link">Sign up for the <a href="http://eepurl.com/hcilqb">newsletter</a> for monthly challenges</div>
     </div>
   );
 }
